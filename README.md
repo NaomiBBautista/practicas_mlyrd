@@ -1,2 +1,2 @@
 # practicas_mlyrd
-Prácticas elaboradas en la materia de Machine Learning y Redes Neuronales
+En este repositorio encontrarás algunas de las prácticas elaboradas en la materia de Machine Learning y Redes Neuronales.
